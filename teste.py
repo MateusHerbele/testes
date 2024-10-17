@@ -1,4 +1,3 @@
-  GNU nano 7.2                                          teste.py                                                    
 import socket
 
 sck = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_ICMP)
